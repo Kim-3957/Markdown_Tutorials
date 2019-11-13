@@ -44,3 +44,10 @@ As Grace Hopper said:
 > in the future than in the past.
 ```
 혹은 따옴표를 한개만써서 중간에`code` 이런식으로 삽입도 가능하다
+
+# 그림을 추가
+그림을 업로드하고 추가하는게 가장 빠른 방법인것 같다.  
+
+`![Github logo](/images/markdown_logo.jpg)`
+
+![Github logo](/images/markdown_logo.jpg)
